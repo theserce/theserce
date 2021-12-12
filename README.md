@@ -59,7 +59,4 @@
 [instagram2]: https://www.instagram.com/dizi_treni/
 [linkedin]: https://linkedin.com/in/serhat-%C3%A7elik-845678223
 
-<br />
-
-[![HitCount](http://hits.dwyl.com/theserce/theserce.svg?style=flat-square)](http://hits.dwyl.com/theserce/theserce)
 
