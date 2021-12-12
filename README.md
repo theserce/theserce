@@ -10,7 +10,7 @@
 
 ### + I'm interested in Cryptocurrencies. 
 
-<img align="left" alt="Shiba" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" />
+<img align="left" alt="Shiba" width="26px" src="https://cryptologos.cc/logos/basic-attention-token-bat-logo.png" />
 
 #SHIBArmy <img align="left" alt="Shiba" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/5/51/Shiba_coin_logo.png" />
 
