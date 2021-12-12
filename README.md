@@ -8,6 +8,14 @@
 
 <br />
 
+### + I'm interested in Cryptocurrencies. 
+
+<img align="left" alt="Shiba" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" />
+
+#SHIBArmy <img align="left" alt="Shiba" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/5/51/Shiba_coin_logo.png" />
+
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="serce | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -22,7 +30,6 @@
 ### SOON (it'll be my tiny metaverse):
 
 [<img align="left" alt="serce" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
 
 <br />
 <br />
