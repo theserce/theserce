@@ -19,7 +19,7 @@
 <br />
 <br />
 
-### SOON (it will be my tiny metaverse):
+### SOON (it'll be my tiny metaverse):
 
 [<img align="left" alt="serce" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
