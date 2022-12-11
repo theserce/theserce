@@ -19,10 +19,10 @@
 ### Connect with me:
 
 [<img align="left" alt="serce | YouTube" width="22px" src="https://avatars.githubusercontent.com/u/4052902?s=200&v=4" />][youtube]
-[<img align="left" alt="serce | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
-[<img align="left" alt="serce | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
-[<img align="left" alt="serce | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="serce | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="serce | YouTube" width="22px" src="https://avatars.githubusercontent.com/u/4052902?s=200&v=4" />][youtube2]
+[<img align="left" alt="serce | Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />][instagram2]
+[<img align="left" alt="serce | Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />][instagram]
+[<img align="left" alt="serce | LinkedIn" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
 
 <br />
 <br />
