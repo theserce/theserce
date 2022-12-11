@@ -29,13 +29,13 @@
 
 ### My Website:
 
-<img align="left" alt="serce" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen480-categories-applications-internet.svg/192px-Oxygen480-categories-applications-internet.svg.png" />
+[<img align="left" alt="serce" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen480-categories-applications-internet.svg/192px-Oxygen480-categories-applications-internet.svg.png" />][website]
 
 <br />
 
 ### SOON (it'll be my tiny metaverse):
 
-[<img align="left" alt="serce" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen480-categories-applications-internet.svg/192px-Oxygen480-categories-applications-internet.svg.png" />][website]
+[<img align="left" alt="serce" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen480-categories-applications-internet.svg/192px-Oxygen480-categories-applications-internet.svg.png" />][website2]
 
 <br />
 <br />
@@ -58,7 +58,8 @@
 <br />
 <br />
 
-[website]: http://univ.city/
+[website]: https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=2000
+[website2]: http://univ.city/
 [youtube]: https://www.youtube.com/c/DiziTreni
 [youtube2]: https://www.youtube.com/channel/UCIPcmTIfr-45InrVEQh0L1w
 [instagram]: https://www.instagram.com/serce_official/
