@@ -67,6 +67,9 @@
 [linkedin]: https://linkedin.com/in/serhat-%C3%A7elik-845678223
 [buycoffee]: https://www.buymeacoffee.com/theserce
 
+<br />
+<br />
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theserce&show_icons=true&locale=en&layout=compact" alt="theserce" />
 
 <br />
