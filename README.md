@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/ofSuyOcXZVJlh6OT74/giphy.gif" align="right" width="300" height="300">
 
-### Hi there, I'm Serhat - aka Serce 👋 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theserce&label=Profile%20views&color=0e75b6&style=flat" alt="theserce" /> </p> ### Hi there, I'm Serhat - aka Serce 👋 
 
 <br />
 
