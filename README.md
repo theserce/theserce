@@ -79,4 +79,4 @@
 <br />
 <br />
 
-<img src="https://i.imgur.com/HtMktoE.png" align="left">
+<img src="https://i.imgur.com/7mYJRgv.png" align="center">
