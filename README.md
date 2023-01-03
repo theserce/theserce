@@ -77,4 +77,4 @@
 <br />
 <br />
 
-<img src="https://i.imgur.com/HtMktoE.png" align="center" width="2000" height="800">
+<img src="https://i.imgur.com/HtMktoE.png" align="center" width="1280" height="506">
