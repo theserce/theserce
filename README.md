@@ -77,6 +77,5 @@
 [<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theserce" />][buycoffee]
 
 <br />
-<br />
 
 <img src="https://i.imgur.com/7mYJRgv.png" align="center">
