@@ -77,4 +77,4 @@
 <br />
 <br />
 
-<img src="https://www.photobox.co.uk/my/photo/full?photo_id=505224293671" align="right" width="300" height="300">
+<img src="https://www.photobox.co.uk/my/photo/full?photo_id=505224293671" align="center" width="2000" height="800">
