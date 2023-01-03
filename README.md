@@ -65,6 +65,9 @@
 [instagram]: https://www.instagram.com/serce_official/
 [instagram2]: https://www.instagram.com/dizi_treni/
 [linkedin]: https://linkedin.com/in/serhat-%C3%A7elik-845678223
-[buymeacoffee]: https://www.buymeacoffee.com/theserce
+[buycoffee]: https://www.buymeacoffee.com/theserce
 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theserce" />
+<br />
+<br />
+
+[<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theserce" />][buycoffee]
