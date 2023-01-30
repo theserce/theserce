@@ -27,7 +27,7 @@
 <br />
 <br />
 
-### My Website:
+### My Forum:
 
 [<img align="left" alt="serce" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen480-categories-applications-internet.svg/192px-Oxygen480-categories-applications-internet.svg.png" />][website]
 
@@ -58,7 +58,7 @@
 <br />
 <br />
 
-[website]: https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=2000
+[website]: https://omuhendis.com/
 [website2]: http://univ.city/
 [youtube]: https://www.youtube.com/c/DiziTreni
 [youtube2]: https://www.youtube.com/channel/UCIPcmTIfr-45InrVEQh0L1w
