@@ -29,7 +29,7 @@
 
 ### My Forum:
 
-[<img align="left" alt="serce" width="22px" src="https://omuhendis.com/ext/planetstyles/flightdeck/store/omh.png" />][website]
+[<img align="left" alt="serce" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen480-categories-applications-internet.svg/192px-Oxygen480-categories-applications-internet.svg.png" />][website]
 
 <br />
 
@@ -42,7 +42,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://omuhendis.com/ext/planetstyles/flightdeck/store/omh.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="[https://omuhendis.com/ext/planetstyles/flightdeck/store/omh.png](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png)" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
