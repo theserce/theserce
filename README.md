@@ -52,7 +52,7 @@
 <br />
 <br />
 
-[website]: https://omuhendis.com/](https://theserce.github.io/universe/
+[website]: https://theserce.github.io/universe/
 [youtube]: https://www.youtube.com/c/DiziTreni
 [youtube2]: https://www.youtube.com/channel/UCIPcmTIfr-45InrVEQh0L1w
 [instagram]: https://www.instagram.com/serce_official/
