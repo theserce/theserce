@@ -27,13 +27,7 @@
 <br />
 <br />
 
-### My Forum:
-
-[<img align="left" alt="serce" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen480-categories-applications-internet.svg/192px-Oxygen480-categories-applications-internet.svg.png" />][website]
-
-<br />
-
-### SOON (it'll be my tiny metaverse):
+### My Universe:
 
 [<img align="left" alt="serce" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen480-categories-applications-internet.svg/192px-Oxygen480-categories-applications-internet.svg.png" />][website]
 
@@ -58,13 +52,12 @@
 <br />
 <br />
 
-[website]: https://omuhendis.com/
-[website2]: http://univ.city/
+[website]: https://omuhendis.com/](https://theserce.github.io/universe/
 [youtube]: https://www.youtube.com/c/DiziTreni
 [youtube2]: https://www.youtube.com/channel/UCIPcmTIfr-45InrVEQh0L1w
 [instagram]: https://www.instagram.com/serce_official/
 [instagram2]: https://www.instagram.com/dizi_treni/
-[linkedin]: https://linkedin.com/in/serhat-%C3%A7elik-845678223
+[linkedin]: https://www.linkedin.com/in/theserce/
 [buycoffee]: https://www.buymeacoffee.com/theserce
 
 <br />
