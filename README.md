@@ -31,6 +31,7 @@
 
 [<img align="left" alt="serce" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen480-categories-applications-internet.svg/192px-Oxygen480-categories-applications-internet.svg.png" />][website1]
 [<img align="left" alt="serce" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Oxygen480-categories-applications-internet.svg/192px-Oxygen480-categories-applications-internet.svg.png" />][website2]
+
 <br />
 <br />
 
@@ -52,7 +53,7 @@
 <br />
 <br />
 
-[website]: https://theserce.github.io/universe/
+[website1]: https://theserce.github.io/universe/
 [website2]: [https://theserce.github.io/universe/](https://theserce.github.io/LexicalGames/)
 [youtube]: https://www.youtube.com/c/DiziTreni
 [youtube2]: https://www.youtube.com/channel/UCIPcmTIfr-45InrVEQh0L1w
