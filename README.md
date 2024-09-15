@@ -54,7 +54,7 @@
 <br />
 
 [website1]: https://theserce.github.io/universe/
-[website2]: [https://theserce.github.io/universe/](https://theserce.github.io/LexicalGames/)
+[website2]: https://theserce.github.io/LexicalGames/
 [youtube]: https://www.youtube.com/c/DiziTreni
 [youtube2]: https://www.youtube.com/channel/UCIPcmTIfr-45InrVEQh0L1w
 [instagram]: https://www.instagram.com/serce_official/
